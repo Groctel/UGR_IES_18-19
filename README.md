@@ -9,7 +9,25 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 - [Clara Romero](https://github.com/clarasdfgh)
 - [Atanasio Rubio](https://github.com/Groctel)
 
-### ESTRUCTURA DEL TRABAJO
+### Empresas a elegir:
+
+###### Pendiente de ratificación
+
+- Apache
+- Discord
+- El Ganso
+- GIMP
+- GNOME
+- GNU
+- HBO
+- KdenLive
+- La Posada
+- LibreOffice
+- Mediaset
+- Movistar
+- Reddit
+
+### Estructura del trabajo:
 
 ###### Pendiente de ratificación
 
