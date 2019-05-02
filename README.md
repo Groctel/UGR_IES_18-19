@@ -4,10 +4,10 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 
 ## Componentes oficiales:
 
-- [Inés Nieto](https://github.com/ins426)
-- [Leire Requena](https://github.com/leirereqgar)
-- [Clara Romero](https://github.com/clarasdfgh)
-- [Atanasio Rubio](https://github.com/Groctel)
+- [Inés Nieto Sánchez](https://github.com/ins426)
+- [Leire Requena García](https://github.com/leirereqgar)
+- [Clara María Romero Lara](https://github.com/clarasdfgh)
+- [Atanasio José Rubio Gil](https://github.com/Groctel)
 
 ### Empresas a elegir:
 

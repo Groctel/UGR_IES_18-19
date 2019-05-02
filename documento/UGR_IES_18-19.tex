@@ -1,0 +1,103 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Propiedades básicas del documento
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt, spanish]{article}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Bibliotecas
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{natbib}
+\usepackage{url}
+\usepackage[utf8x]{inputenc}
+\usepackage{graphicx}
+	\graphicspath{{imágenes/}}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{vmargin}
+	\setmarginsrb{2 cm}{1 cm}{2 cm}{2 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
+\usepackage[default]{sourcesanspro}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Título, autores y fecha de compilación
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Ingeniería, Empresa y Sociedad:\\
+	Empre S.A. \hspace{0.05cm}}                  
+\author{ Inés Nieto Sánchez \\
+	Leire Requena García \\
+	Clara María Romero Lara \\
+	Atanasio José Rubio Gil}                             
+\date{\today}                                           
+
+\makeatletter
+\let\thetitle\@title
+\let\theauthor\@author
+\let\thedate\@date
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Elementos de maquetación externos al cuerpo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+	\fancyhf{}
+\lhead{Ingeniería, Empresa y Sociedad: Empre S.A.}
+\rhead{Universidad de Granada}
+\cfoot{\thepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Inicio del documento
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%
+	%          Portada
+		%
+
+\begin{titlepage}
+	% Me falta por poner el logo de la UGR de fondo, pero es un trabajazo no prioritario
+	\begin{center}
+		\vspace*{8 cm}
+		\textsc{INGENIERÍA INFORMÁTICA - UNIVERSIDAD DE GRANADA} \\
+		{\huge \bfseries \thetitle} \\ [8 cm]
+	\end{center}    
+
+	\begin{flushright}
+		\large \theauthor \\ [1 cm]
+	\end{flushright}
+
+	\begin{center}
+		\large \thedate
+	\end{center}    
+\end{titlepage}
+
+%
+	%          Índice
+		%
+
+\tableofcontents
+\pagebreak
+
+%
+	%          Secciones del trabajo (importadas desde archivos externos)
+		%
+
+%\input{introduccion.tex}
+%\input{seccion_tal.tex}
+%\input{sseccion_cual.tex}
+
+\pagebreak
+
+%
+	%          Bibliografía
+		%
+
+\bibliographystyle{plain}
+\bibliography{biblist}
+
+\end{document}
