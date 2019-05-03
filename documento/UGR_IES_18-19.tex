@@ -2,36 +2,55 @@
 %          Propiedades básicas del documento
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[12pt, spanish]{article}
-\usepackage[spanish]{babel}
-\selectlanguage{spanish}
+\documentclass [12pt, spanish] {article}
+\usepackage [spanish] {babel}
+\selectlanguage {spanish}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %          Bibliotecas
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage{natbib}
-\usepackage{url}
-\usepackage[utf8x]{inputenc}
-\usepackage{graphicx}
-	\graphicspath{{imágenes/}}
-\usepackage{parskip}
-\usepackage{fancyhdr}
-\usepackage{vmargin}
-	\setmarginsrb{2 cm}{1 cm}{2 cm}{2 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
-\usepackage[default]{sourcesanspro}
+\usepackage {natbib}
+\usepackage {url}
+\usepackage [utf8x] {inputenc}
+\usepackage {graphicx} % Para incluir imágenes en el documento
+	\graphicspath {{imagenes/}}
+\usepackage {transparent} % Para la transparencia de la imagen de la portada
+\usepackage {eso-pic} % Para colocar la imagen en la portada
+	\AddToShipoutPicture* {
+		\put(70,100) {
+			\parbox [b] [\paperheight] {\paperwidth} {
+				\vfill
+				\centering {
+					\transparent {0.1}
+					\includegraphics [scale=2.2] {logo_ugr.png}
+				}
+				\vfil
+			}
+		}
+	}
+\usepackage {parskip}
+\usepackage {fancyhdr}
+\usepackage {vmargin}
+	\setmarginsrb {2 cm} {1 cm} {2 cm} {2 cm} {1 cm} {1.5 cm} {1 cm} {1.5 cm}
+\usepackage [default] {sourcesanspro}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %          Título, autores y fecha de compilación
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{Ingeniería, Empresa y Sociedad:\\
-	Empre S.A. \hspace{0.05cm}}                  
-\author{ Inés Nieto Sánchez \\
+\title {
+	Ingeniería, Empresa y Sociedad: \\
+	Empre S.A.
+	\hspace {0.05cm}
+}
+\author {
+	Inés Nieto Sánchez \\
 	Leire Requena García \\
 	Clara María Romero Lara \\
-	Atanasio José Rubio Gil}                             
-\date{\today}                                           
+	Atanasio José Rubio Gil
+}
+\date {\today}
 
 \makeatletter
 \let\thetitle\@title
@@ -43,49 +62,48 @@
 %          Elementos de maquetación externos al cuerpo
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\pagestyle{fancy}
-	\fancyhf{}
-\lhead{Ingeniería, Empresa y Sociedad: Empre S.A.}
-\rhead{Universidad de Granada}
-\cfoot{\thepage}
+\pagestyle {fancy}
+\fancyhf { }
+\lhead {Ingeniería, Empresa y Sociedad: Empre S.A.}
+\rhead {Universidad de Granada}
+\cfoot {\thepage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %          Inicio del documento
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{document}
+\begin {document}
 
-%
-	%          Portada
-		%
+	%
+	%     Portada
+	%
 
-\begin{titlepage}
-	% Me falta por poner el logo de la UGR de fondo, pero es un trabajazo no prioritario
-	\begin{center}
-		\vspace*{8 cm}
-		\textsc{INGENIERÍA INFORMÁTICA - UNIVERSIDAD DE GRANADA} \\
+\begin {titlepage}
+	\begin {center}
+		\vspace* {8 cm}
+		\textsc {INGENIERÍA INFORMÁTICA - UNIVERSIDAD DE GRANADA} \\
 		{\huge \bfseries \thetitle} \\ [8 cm]
-	\end{center}    
+	\end {center}
 
-	\begin{flushright}
+	\begin {flushright}
 		\large \theauthor \\ [1 cm]
-	\end{flushright}
+	\end {flushright}
 
-	\begin{center}
+	\begin {center}
 		\large \thedate
-	\end{center}    
-\end{titlepage}
+	\end {center}
+\end {titlepage}
 
-%
-	%          Índice
-		%
+	%
+	%     Índice
+	%
 
 \tableofcontents
 \pagebreak
 
-%
-	%          Secciones del trabajo (importadas desde archivos externos)
-		%
+	%
+	%     Secciones del trabajo (importadas desde archivos externos)
+	%
 
 %\input{introduccion.tex}
 %\input{seccion_tal.tex}
@@ -93,11 +111,11 @@
 
 \pagebreak
 
-%
-	%          Bibliografía
-		%
+	%
+	%     Bibliografía
+	%
 
-\bibliographystyle{plain}
-\bibliography{biblist}
+\bibliographystyle {plain}
+\bibliography {biblist}
 
-\end{document}
+\end {document}
