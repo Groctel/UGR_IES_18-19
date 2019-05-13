@@ -39,10 +39,6 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
   - Ámbito geográfico
   - Forma jurídica
   - Procedencia del capital
-- **Dirección y gobierno:**
-  - Propiedad de la empresa
-  - Gobierno de la empresa
-- **RSC**
 - **Planificación:**
   - Objetivos estratégicos
   - Objetivos tácticos
@@ -53,7 +49,10 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 - **Organización:**
   - Jerarquía de la empresa
   - Organigrama
+  - RSC
 - **Dirección:**
+  - Propiedad de la empresa
+  - Gobierno de la empresa
   - Estratégica
     - Análisis del entorno interno y externo (DAFO y PESTEL)
     - Análisis del entorno específico (Diamante de Porter)
@@ -64,11 +63,11 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
     - Desarrollo mercantil
     - Desarrollo tecnológico
     - ¿Producir o comprar?
+  - Gestión financiera
+    - Financiación interna y externa
+    - Balance
+  - Recursos humanos (No disponible)
+  - Márketing y publicidad (No disponible)
 - **Control:**
   - Forma de control
   - Técnicas de control
-- **Gestión financiera:**
-  - Financiación interna y externa
-  - Balance
-- **Recursos humanos** (No disponible)
-- **Márketing y publicidad** (No disponible)
