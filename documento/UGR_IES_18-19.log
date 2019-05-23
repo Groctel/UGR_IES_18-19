@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  3 MAY 2019 12:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  23 MAY 2019 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -343,12 +343,43 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-)
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+
+[1])
 \tf@toc=\write3
 \openout3 = `UGR_IES_18-19.toc'.
 
-
-[1]
+ [2] (./1_introduccion.tex) [3] (./2_mision-vision-y-proposito.tex)
+[4] (./3_propiedades-de-la-empresa.tex) (./3_1_tamanio.tex
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+) (./3_2_sector.tex)
+(./3_3_ambito-geografico.tex) (./3_4_forma-juridica.tex)
+(./3_5_procedencia-del-capital.tex) [5] (./4_planificacion.tex)
+(./4_1_objetivos-estrategicos.tex) (./4_2_objetivos-tacticos.tex)
+(./4_3_objetivos-operativos.tex) (./4_4_acciones-planificadas.tex)
+(./4_5_recursos.tex) (./4_6_implantacion-del-plan.tex) [6]
+(./5_organizacion.tex) (./5_1_jerarquia-de-la-empresa.tex)
+(./5_2_organigrama.tex) (./5_3_responsabilidad-social-corporativa.tex) [7]
+(./6_direccion.tex) (./6_1_propiedad-de-la-empresa.tex)
+(./6_2_gobierno-de-la-empresa.tex) (./6_3_direccion-estrategica.tex)
+(./6_3_1_analisis-del-entorno-interno-y-externo.tex)
+(./6_3_2_analisis-del-entorno-especifico.tex)
+(./6_4_direccion-de-produccion.tex) (./6_4_1_proceso-de-produccion.tex)
+(./6_4_2_ciclo-de-vida-del-producto.tex) (./6_5_innovacion.tex)
+(./6_5_1_desarrollo-mercantil.tex) (./6_5_2_desarrollo-tecnologico.tex)
+(./6_5_3_producir-o-comprar.tex) (./6_6_gestion-financiera.tex)
+(./6_6_1_financiacion-interna-y-externa.tex) (./6_6_2_balance-financiero.tex)
+(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [8]
+(./7_control.tex) (./7_1_forma-de-control.tex) (./7_2_tecnicas-de-control.tex)
+[9]
 No file UGR_IES_18-19.bbl.
 (./UGR_IES_18-19.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -357,21 +388,21 @@ LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 5541 strings out of 492616
- 74603 string characters out of 6135177
- 159192 words of memory out of 5000000
- 9334 multiletter control sequences out of 15000+600000
- 73105 words of font info for 28 fonts, out of 8000000 for 9000
+ 5683 strings out of 492616
+ 78084 string characters out of 6135177
+ 166218 words of memory out of 5000000
+ 9347 multiletter control sequences out of 15000+600000
+ 94823 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,14n,48p,822b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/shar
 e/texmf-dist/fonts/enc/dvips/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/
 fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/f
 onts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on UGR_IES_18-19.pdf (2 pages, 191538 bytes).
+Output written on UGR_IES_18-19.pdf (10 pages, 203977 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

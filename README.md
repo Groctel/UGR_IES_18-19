@@ -9,27 +9,9 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 - [Clara María Romero Lara](https://github.com/clarasdfgh)
 - [Atanasio José Rubio Gil](https://github.com/Groctel)
 
-### Empresas a elegir:
-
-###### Pendiente de ratificación
-
-- Apache
-- Discord
-- El Ganso
-- GIMP
-- GNOME
-- GNU
-- HBO
-- KdenLive
-- La Posada
-- LibreOffice
-- Mediaset
-- Movistar
-- Reddit
+### Empresa elegida: Walt Disney Pictures 
 
 ### Estructura del trabajo:
-
-###### Pendiente de ratificación
 
 - **Introducción:** Visión general de la empresa.
 - **Misión, visión y propósito**
