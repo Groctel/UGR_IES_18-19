@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  24 MAY 2019 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  24 MAY 2019 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,6 +238,10 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
+
+
+LaTeX Warning: Label `fig:frog' multiply defined.
+
 )
 \openout1 = `UGR_IES_18-19.aux'.
 
@@ -255,8 +259,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 77.
 LaTeX Font Info:    Try loading font information for LY1+ptm on input line 77.
-
-(/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
+ (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 77.
@@ -368,19 +371,19 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 5.
 )
 (./3_3_ambito-geografico.tex) (./3_4_forma-juridica.tex)
-(./3_5_procedencia-del-capital.tex) [5] (./4_planificacion.tex)
+(./3_5_procedencia-del-capital.tex) [5] [6] (./4_planificacion.tex)
 (./4_1_objetivos-estrategicos.tex) (./4_2_objetivos-tacticos.tex)
 (./4_3_objetivos-operativos.tex) (./4_4_acciones-planificadas.tex)
-(./4_5_recursos.tex) (./4_6_implantacion-del-plan.tex) [6]
+(./4_5_recursos.tex) (./4_6_implantacion-del-plan.tex) [7]
 (./5_organizacion.tex) (./5_1_jerarquia-de-la-empresa.tex)
 (./5_2_organigrama.tex
-<imagenes/organigramadisney.png, id=32, 1204.5pt x 1345.025pt>
+<imagenes/organigramadisney.png, id=35, 1204.5pt x 1345.025pt>
 File: imagenes/organigramadisney.png Graphic file (type png)
 <use imagenes/organigramadisney.png>
 Package pdftex.def Info: imagenes/organigramadisney.png  used on input line 7.
 (pdftex.def)             Requested size: 361.35278pt x 403.5106pt.
-) (./5_3_responsabilidad-social-corporativa.tex [7 <./imagenes/organigramadisne
-y.png>]) [8] (./6_direccion.tex)
+) (./5_3_responsabilidad-social-corporativa.tex [8 <./imagenes/organigramadisne
+y.png>]) [9] (./6_direccion.tex)
 (./6_1_propiedad-de-la-empresa.tex) (./6_2_gobierno-de-la-empresa.tex)
 (./6_3_direccion-estrategica.tex)
 (./6_3_1_analisis-del-entorno-interno-y-externo.tex)
@@ -389,10 +392,15 @@ y.png>]) [8] (./6_direccion.tex)
 (./6_4_2_ciclo-de-vida-del-producto.tex) (./6_5_innovacion.tex)
 (./6_5_1_desarrollo-mercantil.tex) (./6_5_2_desarrollo-tecnologico.tex)
 (./6_5_3_producir-o-comprar.tex) (./6_6_gestion-financiera.tex)
-(./6_6_1_financiacion-interna-y-externa.tex) (./6_6_2_balance-financiero.tex)
-(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [9]
+(./6_6_1_financiacion-interna-y-externa.tex) (./6_6_2_balance-financiero.tex
+[10]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+) (./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [11]
 (./7_control.tex) (./7_1_forma-de-control.tex) (./7_2_tecnicas-de-control.tex)
-[10] (./8_bibliografia.tex (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+[12] (./8_bibliografia.tex (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
@@ -406,32 +414,36 @@ Overfull \hbox (9.41365pt too wide) in paragraph at lines 6--7
 
 )
 No file UGR_IES_18-19.bbl.
-[11] (./UGR_IES_18-19.aux
+[13] (./UGR_IES_18-19.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-) ) 
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
  5998 strings out of 492616
  82368 string characters out of 6135177
- 163509 words of memory out of 5000000
+ 163549 words of memory out of 5000000
  9645 multiletter control sequences out of 15000+600000
  103004 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,14n,48p,822b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/
-texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/share/texmf-dist/fo
-nts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/share/texmf-dist/fonts/enc/dvips
-/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/fonts/type1/adobe/sourcesans
-pro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesansp
-ro/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/
-SourceSansPro-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
-tt1200.pfb>
-Output written on UGR_IES_18-19.pdf (12 pages, 567728 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
+exmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/share/texmf-dist/fon
+ts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/share/texmf-dist/fonts/enc/dvips/
+sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/fonts/type1/adobe/sourcesansp
+ro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspr
+o/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/S
+ourceSansPro-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sft
+t1200.pfb>
+Output written on UGR_IES_18-19.pdf (14 pages, 572174 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
