@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.5.24)  24 MAY 2019 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.5.24)  24 MAY 2019 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -390,9 +390,9 @@ y.png>]) [9] (./6_direccion.tex)
 (./6_5_1_desarrollo-mercantil.tex) (./6_5_2_desarrollo-tecnologico.tex)
 (./6_5_3_producir-o-comprar.tex) (./6_6_gestion-financiera.tex)
 (./6_6_1_financiacion-interna-y-externa.tex) (./6_6_2_balance-financiero.tex)
-(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [10]
+(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [10] [11]
 (./7_control.tex) (./7_1_forma-de-control.tex) (./7_2_tecnicas-de-control.tex)
-[11] (./8_bibliografia.tex (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+[12] (./8_bibliografia.tex (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
@@ -406,7 +406,7 @@ Overfull \hbox (9.41365pt too wide) in paragraph at lines 6--7
 
 )
 No file UGR_IES_18-19.bbl.
-[12] (./UGR_IES_18-19.aux
+[13] (./UGR_IES_18-19.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 9.
@@ -428,10 +428,10 @@ pro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesansp
 ro/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/
 SourceSansPro-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
 tt1200.pfb>
-Output written on UGR_IES_18-19.pdf (13 pages, 570375 bytes).
+Output written on UGR_IES_18-19.pdf (14 pages, 571574 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
