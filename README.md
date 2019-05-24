@@ -51,5 +51,5 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
    7. Recursos humanos (No disponible)
    8. Márketing y publicidad (No disponible)
 7. **Control:**
-  1. Forma de control
-  2. Técnicas de control
+   1. Forma de control
+   2. Técnicas de control
