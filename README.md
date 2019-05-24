@@ -29,7 +29,7 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
    5. Recursos
    6. Implantación del plan
 5. **Organización:**
-   1. erarquía de la empresa
+   1. Jerarquía de la empresa
    2. Organigrama
    3. Responsabilidad social corporativa
 6. **Dirección:**
