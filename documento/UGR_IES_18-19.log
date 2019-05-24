@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  24 MAY 2019 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  24 MAY 2019 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,9 +370,16 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (./4_3_objetivos-operativos.tex) (./4_4_acciones-planificadas.tex)
 (./4_5_recursos.tex) (./4_6_implantacion-del-plan.tex) [6]
 (./5_organizacion.tex) (./5_1_jerarquia-de-la-empresa.tex)
-(./5_2_organigrama.tex) (./5_3_responsabilidad-social-corporativa.tex) [7]
-(./6_direccion.tex) (./6_1_propiedad-de-la-empresa.tex)
-(./6_2_gobierno-de-la-empresa.tex) (./6_3_direccion-estrategica.tex)
+(./5_2_organigrama.tex
+<imagenes/organigramadisney.png, id=35, 1204.5pt x 1345.025pt>
+File: imagenes/organigramadisney.png Graphic file (type png)
+<use imagenes/organigramadisney.png>
+Package pdftex.def Info: imagenes/organigramadisney.png  used on input line 7.
+(pdftex.def)             Requested size: 361.35278pt x 403.5106pt.
+) (./5_3_responsabilidad-social-corporativa.tex [7 <./imagenes/organigramadisne
+y.png>]) [8] (./6_direccion.tex)
+(./6_1_propiedad-de-la-empresa.tex) (./6_2_gobierno-de-la-empresa.tex)
+(./6_3_direccion-estrategica.tex)
 (./6_3_1_analisis-del-entorno-interno-y-externo.tex)
 (./6_3_2_analisis-del-entorno-especifico.tex)
 (./6_4_direccion-de-produccion.tex) (./6_4_1_proceso-de-produccion.tex)
@@ -380,34 +387,48 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (./6_5_1_desarrollo-mercantil.tex) (./6_5_2_desarrollo-tecnologico.tex)
 (./6_5_3_producir-o-comprar.tex) (./6_6_gestion-financiera.tex)
 (./6_6_1_financiacion-interna-y-externa.tex) (./6_6_2_balance-financiero.tex)
-(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [8]
+(./6_7_recursos-humanos.tex) (./6_8_marketing-y-publicidad.tex) [9]
 (./7_control.tex) (./7_1_forma-de-control.tex) (./7_2_tecnicas-de-control.tex)
-[9]
+[10] (./8_bibliografia.tex (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
+ (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (9.41365pt too wide) in paragraph at lines 6--7
+\T1/SourceSansPro-LF/m/n/12 & De-sign. Ob-te-ni-do 05, 2019, de $\T1/cmtt/m/n/1
+2 https : / / atissuejournal . com / 2009 / 08 / 07 / walt-[]disney '[]
+ []
+
+)
 No file UGR_IES_18-19.bbl.
-(./UGR_IES_18-19.aux
+[11] (./UGR_IES_18-19.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 5686 strings out of 492616
- 78161 string characters out of 6135177
- 163221 words of memory out of 5000000
- 9348 multiletter control sequences out of 15000+600000
- 102691 words of font info for 42 fonts, out of 8000000 for 9000
+ 5967 strings out of 492616
+ 81821 string characters out of 6135177
+ 163229 words of memory out of 5000000
+ 9618 multiletter control sequences out of 15000+600000
+ 103004 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,14n,49p,822b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/shar
-e/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/share/texmf-dist/
-fonts/enc/dvips/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/fonts/type1/a
-dobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/ad
-obe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe
-/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on UGR_IES_18-19.pdf (11 pages, 225754 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/
+texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/share/texmf-dist/fo
+nts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/share/texmf-dist/fonts/enc/dvips
+/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/fonts/type1/adobe/sourcesans
+pro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesansp
+ro/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/
+SourceSansPro-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
+tt1200.pfb>
+Output written on UGR_IES_18-19.pdf (13 pages, 564244 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
