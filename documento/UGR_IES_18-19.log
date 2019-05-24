@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  23 MAY 2019 12:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.26)  24 MAY 2019 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,36 +238,36 @@ LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `UGR_IES_18-19.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 76.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 76.
 
 (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
-ut line 75.
+ut line 76.
 
 (/usr/share/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-LF.fd
 File: T1SourceSansPro-LF.fd 2016/12/03 (autoinst) Font definitions for T1/Sourc
 eSansPro-LF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 75.
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
+(Font)              scaled to size 12.0pt on input line 76.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
 
 (/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -315,29 +315,30 @@ e
 ))
 \AtBeginShipoutBox=\box28
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 84.
+(Font)              scaled to size 12.0pt on input line 85.
 
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 85.
+(Font)              scaled to size 24.88pt on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 85.
+(Font)              scaled to size 24.88pt on input line 86.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 89.
+(Font)              scaled to size 14.4pt on input line 90.
 <imagenes/logo_ugr.png, id=1, 265.2309pt x 265.2309pt>
 File: imagenes/logo_ugr.png Graphic file (type png)
 <use imagenes/logo_ugr.png>
-Package pdftex.def Info: imagenes/logo_ugr.png  used on input line 95.
+Package pdftex.def Info: imagenes/logo_ugr.png  used on input line 91.
 (pdftex.def)             Requested size: 583.5057pt x 583.5057pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/logo_ugr.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/logo_ugr.png>] 
+[2]
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 101.
+(Font)              scaled to size 17.28pt on input line 102.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 101.
+(Font)              scaled to size 17.28pt on input line 102.
  (./UGR_IES_18-19.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -351,7 +352,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
-
 [1])
 \tf@toc=\write3
 \openout3 = `UGR_IES_18-19.toc'.
@@ -360,7 +360,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [4] (./3_propiedades-de-la-empresa.tex) (./3_1_tamanio.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
-) (./3_2_sector.tex)
+) (./3_2_sector.tex
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 5.
+)
 (./3_3_ambito-geografico.tex) (./3_4_forma-juridica.tex)
 (./3_5_procedencia-del-capital.tex) [5] (./4_planificacion.tex)
 (./4_1_objetivos-estrategicos.tex) (./4_2_objetivos-tacticos.tex)
@@ -388,21 +391,23 @@ LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 5683 strings out of 492616
- 78084 string characters out of 6135177
- 166218 words of memory out of 5000000
- 9347 multiletter control sequences out of 15000+600000
- 94823 words of font info for 40 fonts, out of 8000000 for 9000
+ 5686 strings out of 492616
+ 78161 string characters out of 6135177
+ 163221 words of memory out of 5000000
+ 9348 multiletter control sequences out of 15000+600000
+ 102691 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,14n,48p,822b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/shar
-e/texmf-dist/fonts/enc/dvips/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/
-fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/f
-onts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on UGR_IES_18-19.pdf (10 pages, 203977 bytes).
+ 38i,14n,49p,822b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/shar
+e/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}{/usr/share/texmf-dist/
+fonts/enc/dvips/sourcesanspro/a_mhce32.enc}</usr/share/texmf-dist/fonts/type1/a
+dobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/ad
+obe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texmf-dist/fonts/type1/adobe
+/sourcesanspro/SourceSansPro-Regular.pfb>
+Output written on UGR_IES_18-19.pdf (11 pages, 225754 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
