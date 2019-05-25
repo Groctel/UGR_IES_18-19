@@ -10,9 +10,8 @@
 %          Bibliotecas
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\usepackage {natbib}
-\usepackage {url}
-\usepackage [utf8x] {inputenc}
+\usepackage {url} % Para introducir enlaces sin que se salgan de la página
+\usepackage [utf8x] {inputenc} % Codificación de caracteres
 \usepackage {graphicx} % Para incluir imágenes en el documento
 	\graphicspath {{imagenes/}}
 \usepackage {transparent} % Para la transparencia de la imagen de la portada
@@ -29,12 +28,12 @@
 			}
 		}
 	}
-\usepackage{setspace}
+\usepackage{setspace} % Para el interlineado
 \usepackage {parskip}
 \usepackage {fancyhdr}
-\usepackage {vmargin}
+\usepackage {vmargin} % Marginado de la página
 	\setmarginsrb {2 cm} {1 cm} {2 cm} {2 cm} {1 cm} {1.5 cm} {1 cm} {1.5 cm}
-\usepackage [default] {sourcesanspro}
+\usepackage [default] {sourcesanspro} % Fuente predeterminada
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %          Título, autores y fecha de compilación
@@ -163,12 +162,5 @@
 \pagebreak
 
 \input{8_bibliografia.tex}
-
-	%
-	%     Bibliografía
-	%
-
-\bibliographystyle {plain}
-\bibliography {biblist}
 
 \end {document}
