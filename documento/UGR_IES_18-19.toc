@@ -1,0 +1,43 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}% 
+\contentsline {section}{\numberline {2}Misi\IeC {\'o}n y visi\IeC {\'o}n}{4}% 
+\contentsline {section}{\numberline {3}Propiedades de la empresa}{5}% 
+\contentsline {subsection}{\numberline {3.1}Tama\IeC {\~n}o}{5}% 
+\contentsline {subsection}{\numberline {3.2}Sector}{5}% 
+\contentsline {subsection}{\numberline {3.3}\IeC {\'A}mbito geogr\IeC {\'a}fico}{5}% 
+\contentsline {subsection}{\numberline {3.4}Forma jur\IeC {\'\i }dica}{6}% 
+\contentsline {subsection}{\numberline {3.5}Procedencia del capital}{6}% 
+\contentsline {section}{\numberline {4}Planificaci\IeC {\'o}n}{7}% 
+\contentsline {subsection}{\numberline {4.1}Objetivos estrat\IeC {\'e}gicos}{7}% 
+\contentsline {subsection}{\numberline {4.2}Objetivos t\IeC {\'a}cticos}{7}% 
+\contentsline {subsection}{\numberline {4.3}Objetivos operativos}{7}% 
+\contentsline {subsection}{\numberline {4.4}Acciones planificadas}{7}% 
+\contentsline {subsection}{\numberline {4.5}Recursos}{7}% 
+\contentsline {subsection}{\numberline {4.6}Implantaci\IeC {\'o}n del plan}{7}% 
+\contentsline {section}{\numberline {5}Organizaci\IeC {\'o}n}{8}% 
+\contentsline {subsection}{\numberline {5.1}Jerarqu\IeC {\'\i }a de la empresa}{8}% 
+\contentsline {subsection}{\numberline {5.2}Organigrama}{9}% 
+\contentsline {subsection}{\numberline {5.3}Responsabilidad social corporativa}{10}% 
+\contentsline {section}{\numberline {6}Direcci\IeC {\'o}n}{11}% 
+\contentsline {subsection}{\numberline {6.1}Propiedad de la empresa}{11}% 
+\contentsline {subsection}{\numberline {6.2}Gobierno de la empresa}{11}% 
+\contentsline {subsection}{\numberline {6.3}Direcci\IeC {\'o}n estrat\IeC {\'e}gica}{11}% 
+\contentsline {subsubsection}{\numberline {6.3.1}An\IeC {\'a}lisis del entorno interno y externo}{11}% 
+\contentsline {subsubsection}{\numberline {6.3.2}An\IeC {\'a}lisis del entorno espec\IeC {\'\i }fico}{11}% 
+\contentsline {subsection}{\numberline {6.4}Direcci\IeC {\'o}n de producci\IeC {\'o}n}{13}% 
+\contentsline {subsubsection}{\numberline {6.4.1}Proceso de producci\IeC {\'o}n}{13}% 
+\contentsline {subsubsection}{\numberline {6.4.2}Ciclo de vida del producto}{13}% 
+\contentsline {subsection}{\numberline {6.5}Innovaci\IeC {\'o}n}{13}% 
+\contentsline {subsubsection}{\numberline {6.5.1}Desarrollo mercantil}{13}% 
+\contentsline {subsubsection}{\numberline {6.5.2}Desarrollo tecnol\IeC {\'o}gico}{13}% 
+\contentsline {subsubsection}{\numberline {6.5.3}\IeC {\textquestiondown }Producir o comprar?}{13}% 
+\contentsline {subsection}{\numberline {6.6}Gesti\IeC {\'o}n financiera}{13}% 
+\contentsline {subsubsection}{\numberline {6.6.1}Financiaci\IeC {\'o}n interna y externa}{13}% 
+\contentsline {subsubsection}{\numberline {6.6.2}Balance financiero}{13}% 
+\contentsline {subsection}{\numberline {6.7}Recursos humanos}{13}% 
+\contentsline {subsection}{\numberline {6.8}M\IeC {\'a}rketing y publicidad}{13}% 
+\contentsline {section}{\numberline {7}Control}{14}% 
+\contentsline {subsection}{\numberline {7.1}Forma de control}{14}% 
+\contentsline {subsection}{\numberline {7.2}T\IeC {\'e}cnicas de control}{14}% 
+\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{16}% 
