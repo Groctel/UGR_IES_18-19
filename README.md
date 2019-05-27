@@ -9,7 +9,7 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 - [Clara María Romero Lara](https://github.com/clarasdfgh)
 - [Atanasio José Rubio Gil](https://github.com/Groctel)
 
-### Empresa elegida: Walt Disney Pictures 
+### Empresa elegida: The Walt Disney Company
 
 ### Estructura del trabajo:
 
