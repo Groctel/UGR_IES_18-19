@@ -11,6 +11,10 @@ Trabajo de Ingeniería, Empresa y Sociedad para Ingeniería Informática 18-19 e
 
 ### Empresa elegida: The Walt Disney Company
 
+### Dependencias de compilación
+
+- `texlive-most`
+
 ### Estructura del trabajo:
 
 1. **Introducción:** Visión general de la empresa.
