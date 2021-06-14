@@ -1,0 +1,165 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Propiedades básicas del documento
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt, spanish]{article}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Bibliotecas
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[hyphens]{url} % Para introducir enlaces sin que se salgan de la página
+\usepackage[utf8x] {inputenc} % Codificación de caracteres
+\usepackage{graphicx} % Para incluir imágenes en el documento
+	\graphicspath{{imagenes/}}
+\usepackage{transparent} % Para la transparencia de la imagen de la portada
+\usepackage{eso-pic} % Para colocar la imagen en la portada
+	\AddToShipoutPicture*{%
+		\put(70,100){%
+			\parbox[b][\paperheight]{\paperwidth}{%
+				\vfill
+				\centering{%
+					\transparent{0.1}
+					\includegraphics[scale=2.2]{logo_ugr.png}
+				}
+				\vfil
+			}
+		}
+	}
+\usepackage{setspace} % Para el interlineado
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{vmargin} % Marginado de la página
+	\setmarginsrb{2cm}{1cm}{2cm}{2cm}{1cm}{1.5cm}{1cm}{1.5cm}
+\usepackage[default]{sourcesanspro} % Fuente predeterminada
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Título, autores y fecha de compilación
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{%
+	Ingeniería, Empresa y Sociedad: \\
+	The Walt Disney Company
+	\hspace{0.05cm}
+}
+\author{
+	Inés Nieto Sánchez \\
+	Leire Requena García \\
+	Clara María Romero Lara \\
+	Atanasio José Rubio Gil
+}
+\date{\today}
+
+\makeatletter
+\let\thetitle\@title
+\let\theauthor\@author
+\let\thedate\@date
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Elementos de maquetación externos al cuerpo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Ingeniería, Empresa y Sociedad: The Walt Disney Company}
+\linespread{1.5}
+\rhead{Universidad de Granada}
+\cfoot{\thepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          Inicio del documento
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+	%
+	%     Portada
+	%
+
+\begin{titlepage}
+	\singlespacing%
+	\begin{center}
+		\vspace*{8cm}
+		\textsc{INGENIERÍA INFORMÁTICA --- UNIVERSIDAD DE GRANADA} \\
+		{\huge\bfseries\thetitle}\\[8cm]
+	\end{center}
+
+	\begin{flushright}
+		\large\theauthor\\[0.973cm]
+	\end{flushright}
+
+	\begin{center}
+		\large\thedate%
+	\end{center}
+\end{titlepage}
+
+	%
+	%     Índice
+	%
+
+\tableofcontents
+\pagebreak
+
+	%
+	%     Secciones del trabajo (importadas desde archivos externos)
+	%
+
+\input{documento/1_introduccion.tex}
+\pagebreak
+
+\input{documento/2_mision-vision-y-proposito.tex}
+\pagebreak
+
+\input{documento/3_clasificacion-de-la-empresa.tex}
+	\input{documento/3_1_tamanio.tex}
+	\input{documento/3_2_sector.tex}
+	\input{documento/3_3_ambito-geografico.tex}
+	\input{documento/3_4_forma-juridica.tex}
+	\input{documento/3_5_procedencia-del-capital.tex}
+\pagebreak
+
+\input{documento/4_planificacion.tex}
+	\input{documento/4_1_objetivos-estrategicos.tex}
+	\input{documento/4_2_objetivos-tacticos.tex}
+	\input{documento/4_3_objetivos-operativos.tex}
+	\input{documento/4_4_recursos.tex}
+	\input{documento/4_5_responsabilidad-social-corporativa.tex}
+\pagebreak
+
+\input{documento/5_organizacion.tex}
+	\input{documento/5_1_jerarquia-de-la-empresa.tex}
+	\input{documento/5_2_organigrama.tex}
+\pagebreak
+
+\input{documento/6_direccion.tex}
+	\input{documento/6_1_propiedad-de-la-empresa.tex}
+	\input{documento/6_2_gobierno-de-la-empresa.tex}
+	\input{documento/6_3_direccion-estrategica.tex}
+		\input{documento/6_3_1_analisis-del-entorno-interno-y-externo.tex}
+		\input{documento/6_3_2_analisis-del-entorno-especifico.tex}
+	\input{documento/6_4_direccion-de-produccion.tex}
+		\input{documento/6_4_1_proceso-de-produccion.tex}
+		\input{documento/6_4_2_ciclo-de-vida-del-producto.tex}
+	\input{documento/6_5_innovacion.tex}
+		\input{documento/6_5_1_desarrollo-mercantil.tex}
+		\input{documento/6_5_2_desarrollo-tecnologico.tex}
+		\input{documento/6_5_3_producir-o-comprar.tex}
+	\input{documento/6_6_gestion-financiera.tex}
+		\input{documento/6_6_1_financiacion-interna-y-externa.tex}
+		\input{documento/6_6_2_balance-financiero.tex}
+	\input{documento/6_7_recursos-humanos.tex}
+			\input{documento/6_6_2_balance-financiero-tabla.tex}
+	\input{documento/6_8_marketing-y-publicidad.tex}
+\pagebreak
+
+\input{documento/7_control.tex}
+	\input{documento/7_1_forma-de-control.tex}
+	\input{documento/7_2_tecnicas-de-control.tex}
+\pagebreak
+
+\input{documento/8_bibliografia.tex}
+
+\end{document}
